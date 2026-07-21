@@ -39,6 +39,11 @@ pip install -r requirements.txt
 ```bash
 python phishing_detection.py
 ```
+## Dataset
+
+The dataset is not included in this repository because of its size.
+
+Download the dataset and save it as `emails.csv` in the project folder before running the project.
 
 ## Sample Output
 
